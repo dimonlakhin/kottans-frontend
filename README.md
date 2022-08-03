@@ -31,7 +31,7 @@ HTML and CSS are the basic technologies for the frontend. I really enjoyed study
 ![](/task_html_css_intro/6.png)
 ![](/task_html_css_intro/7.png)
 
-## Responsive Web Design
+## 5. Responsive Web Design
 
 ---
 
