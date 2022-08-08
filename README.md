@@ -40,7 +40,7 @@ I really liked this section, especially the flex-box technology.
 ![](/task_responsive_web_design/11.png)
 ![](/task_responsive_web_design/12.png)
 
-#№ 6. HTML & CSS PopUP Practice
+## 6. HTML & CSS PopUP Practice
 
 ___
 
