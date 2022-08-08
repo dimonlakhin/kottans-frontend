@@ -39,3 +39,12 @@ I really liked this section, especially the flex-box technology.
 ![](/task_responsive_web_design/10.png)
 ![](/task_responsive_web_design/11.png)
 ![](/task_responsive_web_design/12.png)
+
+#№ 6. HTML & CSS PopUP Practice
+
+___
+
+This is practice site. Here got implemented popup with help of HTML and CSS only, without any JS.
+Practice task on Kottans Frontend course. Thanks for this experience!
+
+[DEMO](https://dimonlakhin.github.io/html_css_popup/)
