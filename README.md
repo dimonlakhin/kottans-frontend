@@ -55,8 +55,10 @@ ___
 
 Learned the basics of Java Script. Learned a lot about myself.
 
-![](/task_js_basics/JS 4 week.png)
-![](/task_js_basics/js curse 2.png)
-![](/task_js_basics/js curse 3.png)
-![](/task_js_basics/js curse 4.png)
+![](/task_js_basics/1js.png)
+![](/task_js_basics/2js.png)
+![](/task_js_basics/3js.png)
+![](/task_js_basics/4js.png)
+
+
 
