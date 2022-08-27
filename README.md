@@ -48,3 +48,15 @@ This is practice site. Here got implemented popup with help of HTML and CSS only
 Practice task on Kottans Frontend course. Thanks for this experience!
 
 [DEMO](https://dimonlakhin.github.io/html_css_popup/)
+
+## 7. JS Basics
+
+___
+
+Learned the basics of Java Script. Learned a lot about myself.
+
+![](/task_js_basics/JS 4 week.png)
+![](/task_js_basics/js curse 2.png)
+![](/task_js_basics/js curse 3.png)
+![](/task_js_basics/js curse 4.png)
+
