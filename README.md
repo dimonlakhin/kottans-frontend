@@ -53,7 +53,7 @@ Practice task on Kottans Frontend course. Thanks for this experience!
 
 ___
 
-Learned the basics of Java Script. Learned a lot about myself
+Learned the basics of Java Script. Learned a lot about myself.
 
 ![](/task_js_basics/JS 4 week.png)
 ![](/task_js_basics/js curse 2.png)
